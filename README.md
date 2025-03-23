@@ -75,4 +75,4 @@ We used **PyCaret** for automated model selection. The workflow:
 **Future Improvements:** Consider using **CNNs on spectrograms** for better performance.
 
 ## 7. Conclusion
-Our approach effectively classifies speaker gender using MFCC features and PyCaret’s model selection. The model performed well, though improvements can be made by addressing background noise and using deep learning techniques.
+The approach effectively classifies speaker gender using MFCC features and PyCaret’s model selection. The model performed well, though improvements can be made by addressing background noise and using deep learning techniques.
