@@ -10,11 +10,11 @@ Each audio file was converted to a **13-dimensional MFCC feature vector** using 
 - The **mel scale** used in MFCCs mimics how humans perceive sound frequencies.
 - Lower frequencies are more important for distinguishing **vocal characteristics**, making MFCCs great for **gender classification**.
 
-### **2️⃣ Capture Speaker-Specific Characteristics **
+### **2️⃣ Capture Speaker-Specific Characteristics**
 - MFCCs extract **vocal tract information**, which is key in differentiating **male and female** voices.
 - Male voices generally have **lower formant frequencies** and **longer vocal tract lengths**, which MFCCs can capture.
 
-### **3️⃣ Robust Against Background Noise **
+### **3️⃣ Robust Against Background Noise**
 - Unlike raw waveforms, MFCCs are more **resistant to variations** in recording conditions.
 - Helps in real-world applications where noise levels vary.
 
