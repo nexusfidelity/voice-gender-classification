@@ -22,6 +22,9 @@ We used **PyCaret** for automated model selection. The workflow:
 
 ## 4. Model Performance Analysis
 ### Key Metrics:
+
+![Screenshot 2025-03-23 221824](https://github.com/user-attachments/assets/f9ca09f9-ebda-4e7a-9bce-37262584fcd7)
+
 - **Accuracy:** `XX%` (best model)
 - **Precision/Recall:** Balanced for both genders
 - **Confusion Matrix:** Showed minor misclassification, primarily in noisy samples
